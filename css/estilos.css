@@ -1,0 +1,29 @@
+/*esto es un comentaria de css*/
+
+/*
+ANATOMIA DEL CSS
+selector {
+    propiedad: valor;
+    propiedad: valor;
+}
+
+*/
+body {
+    background-color: black;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: royalblue;
+}
