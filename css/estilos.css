@@ -9,21 +9,35 @@ selector {
 
 */
 body {
-    background-color: black;
+    background-color:#06147A;
 }
 
 h1 {
-    color: blue;
+    color: red;
+   ;
 }
 
 p {
-    color: green;
+    color: #8B80FB;
 }
 
 h2 {
-    color: red;
+    color: #A70058;
 }
 
 h3 {
-    color: royalblue;
+    color:#B90000;
+}
+a{
+    color: #912060;
+}
+th
+{
+    color: black;
+    background-color: white;
+}
+td
+{
+    color: black;
+    background-color: white;
 }
