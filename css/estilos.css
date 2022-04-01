@@ -9,24 +9,25 @@ selector {
 
 */
 body {
-    background-color:#06147A;
+    background-color:#7DBBF0;
 }
 
 h1 {
-    color: red;
+    color: #3D6B11;
    ;
 }
 
 p {
-    color: #8B80FB;
+    color: #1947E0;
 }
 
 h2 {
-    color: #A70058;
+    color:#771313 ;
 }
 
 h3 {
-    color:#B90000;
+    color:#A70058
+};
 }
 a{
     color: #912060;
